@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Núria Orgaz</h1>
+<h1 align="center">Hi, I'm Núria Orgaz</h1>
 <h3 align="center">A Data Science student</h3>
 
 - 🌱 I’m currently learning **Python and R**
